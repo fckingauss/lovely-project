@@ -2,12 +2,12 @@
 
 **План**
 - Шаг 1. Выбор темы
-- [Шаг 2. Сбор данных](https://github.com/fckingauss/lovely-project/blob/parser/parser_auto.ipynb)
-- [Шаг 3. Предварительная обработка](https://github.com/fckingauss/lovely-project/blob/predata/data_processing.ipynb)
-- [Шаг 4. Визуализация](https://github.com/fckingauss/lovely-project/blob/pictvis/visualization.ipynb)
-- [Шаг 5. Создание новых признаков](https://github.com/fckingauss/lovely-project/blob/markersMake/creation_new_features.ipynb)
-- [Шаг 6. Гипотезы](https://github.com/fckingauss/lovely-project/blob/hypos/hypothesis_testing.ipynb)
-- [Шаг 7. Машинное обучение](https://github.com/fckingauss/lovely-project/blob/ml/model_training.ipynb)
+- [Шаг 2. Сбор данных](https://github.com/fckingauss/lovely-project/blob/main/data_processing.ipynb)
+- [Шаг 3. Предварительная обработка](https://github.com/fckingauss/lovely-project/blob/main/data_processing.ipynb)
+- [Шаг 4. Визуализация](https://github.com/fckingauss/lovely-project/blob/main/visualization.ipynb)
+- [Шаг 5. Создание новых признаков](https://github.com/fckingauss/lovely-project/blob/main/creation_new_features.ipynb)
+- [Шаг 6. Гипотезы](https://github.com/fckingauss/lovely-project/blob/main/hypothesis_testing.ipynb)
+- [Шаг 7. Машинное обучение](https://github.com/fckingauss/lovely-project/blob/main/model_training.ipynb)
 
 **Команда 🐡:**
 - Баранова Полина
