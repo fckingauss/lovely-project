@@ -2,7 +2,7 @@
 
 **План**
 - Шаг 1. Выбор темы
-- [Шаг 2. Сбор данных](https://github.com/fckingauss/lovely-project/blob/main/data_processing.ipynb)
+- [Шаг 2. Сбор данных](https://github.com/fckingauss/lovely-project/blob/main/parser_auto.ipynb)
 - [Шаг 3. Предварительная обработка](https://github.com/fckingauss/lovely-project/blob/main/data_processing.ipynb)
 - [Шаг 4. Визуализация](https://github.com/fckingauss/lovely-project/blob/main/visualization.ipynb)
 - [Шаг 5. Создание новых признаков](https://github.com/fckingauss/lovely-project/blob/main/creation_new_features.ipynb)
